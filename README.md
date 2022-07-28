@@ -5,7 +5,7 @@ A Bluetooth gesture controller that simulates keyboard inputs
 A gadget that provide users with contactless control to their devices
 - Scroll the website with dirty hand
 - Previous/Next song/video
-- Remote control inonsiderable distance
+- Remote control in a considerable distance
 - New input method
 
 ## Designs
